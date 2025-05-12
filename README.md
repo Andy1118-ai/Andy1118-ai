@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m very interested in Frontend Development <br>👯 I’m looking to collaborate on my upcoming Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning How to create apps using react<br>📬Reach Me at mugataandy@gmail.com <br>⚡ Fun fact I play football
+🔭 I’m very interested in Frontend Development <br>👯 I’m looking to collaborate on my upcoming Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning How to create apps using react<br>🖥my portfolio https://andy-mugata-portfolio.netlify.app<br>📬Reach Me at mugataandy@gmail.com <br>⚡ Fun fact I play football
 
 
 ## 🌐 Socials:
